@@ -3,14 +3,14 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: {
-    default: 'Tushar Khande — Java Backend Developer',
+    default: 'Tushar Khande — Full Stack Developer',
     template: '%s | Tushar Khande',
   },
   description:
-    'Tushar Khande is a Software Engineer specializing in Java, Spring Boot, REST APIs, microservices, and Oracle SQL. Based in Pune, India.',
+    'Tushar Khande is a Full Stack Developer specializing in Java, Spring Boot, REST APIs, microservices, React, and mobile engineering with a strong backend foundation.',
   keywords: [
-    'Tushar Khande', 'Java Developer', 'Backend Developer', 'Spring Boot',
-    'Microservices', 'REST APIs', 'Oracle SQL', 'Software Engineer', 'Pune',
+    'Tushar Khande', 'Full Stack Developer', 'Software Engineer', 'Java Developer',
+    'Spring Boot', 'React', 'REST APIs', 'Microservices', 'Oracle SQL', 'React Native', 'Pune',
   ],
   authors: [{ name: 'Tushar Khande' }],
   creator: 'Tushar Khande',
@@ -19,15 +19,15 @@ export const metadata: Metadata = {
     locale: 'en_IN',
     url: 'https://tusharkhande.dev',
     siteName: 'Tushar Khande',
-    title: 'Tushar Khande — Java Backend Developer',
+    title: 'Tushar Khande — Full Stack Developer',
     description:
-      'Software Engineer specializing in Java, Spring Boot, REST APIs, microservices, and Oracle SQL.',
+      'Full Stack Developer specializing in Java, Spring Boot, REST APIs, microservices, React, and mobile engineering.',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tushar Khande — Java Backend Developer',
+    title: 'Tushar Khande — Full Stack Developer',
     description:
-      'Software Engineer specializing in Java, Spring Boot, REST APIs, microservices, and Oracle SQL.',
+      'Full Stack Developer specializing in Java, Spring Boot, REST APIs, microservices, React, and mobile engineering.',
   },
   robots: {
     index: true,

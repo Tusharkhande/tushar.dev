@@ -14,6 +14,14 @@ export const skillCategories: SkillCategory[] = [
     ],
   },
   {
+    title: 'Frontend & Mobile',
+    priority: 'primary',
+    skills: [
+      'React', 'JavaScript', 'TypeScript', 'Next.js',
+      'React Native', 'HTML5', 'CSS3', 'Tailwind CSS',
+    ],
+  },
+  {
     title: 'Databases',
     priority: 'primary',
     skills: [
@@ -31,16 +39,8 @@ export const skillCategories: SkillCategory[] = [
     ],
   },
   {
-    title: 'Frontend & Mobile',
-    priority: 'secondary',
-    skills: [
-      'React', 'JavaScript', 'TypeScript', 'Next.js',
-      'React Native', 'HTML5', 'CSS3', 'Tailwind CSS',
-    ],
-  },
-  {
     title: 'AI-Assisted Engineering',
-    priority: 'tertiary',
+    priority: 'secondary',
     skills: [
       'GitHub Copilot (Certified)', 'Google Antigravity', 'Cursor',
       'Prompt Engineering', 'AI Code Generation', 'Document Automation',
@@ -58,7 +58,7 @@ export const skillCategories: SkillCategory[] = [
 ];
 
 export const coreSkills = [
-  'Java', 'Spring Boot', 'REST APIs', 'Microservices', 'Oracle SQL',
+  'Java', 'Spring Boot', 'React', 'REST APIs', 'Microservices', 'Oracle SQL', 'React Native',
 ];
 
 export interface Certification {

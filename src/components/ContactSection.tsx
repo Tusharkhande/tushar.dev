@@ -57,7 +57,7 @@ export default function ContactSection() {
               margin: '0 auto 2.5rem',
             }}
           >
-            I'm interested in Java backend, Spring Boot microservices, and software engineering roles. If you're working on something interesting, let's talk.
+            I'm interested in full stack development, Java backend systems, and software engineering opportunities. If you're building something exciting, let's connect.
           </p>
 
           {/* Email CTA */}

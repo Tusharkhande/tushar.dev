@@ -74,7 +74,7 @@ export default function Footer() {
               <span style={{ width: '4px', height: '4px', borderRadius: '50%', background: 'var(--accent)', marginLeft: '2px', display: 'inline-block' }} />
             </Link>
             <p style={{ fontSize: '0.8125rem', color: 'var(--text-secondary)', lineHeight: 1.6, maxWidth: '28ch' }}>
-              Java Backend Developer building reliable APIs and enterprise systems.
+              Full Stack Developer building robust web applications, scalable backends, and mobile products.
             </p>
             <div style={{ display: 'flex', gap: '0.625rem', marginTop: '1rem' }}>
               <a

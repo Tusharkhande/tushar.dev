@@ -29,12 +29,12 @@ export default function SkillsSection() {
         <div style={{ marginBottom: '3rem' }}>
           <p className="section-label" style={{ marginBottom: '0.75rem' }}>TECHNICAL SKILLS</p>
           <h2 className="section-heading" style={{ marginBottom: '0.875rem' }}>
-            Backend-first
+            Full-stack breadth,
             <br />
-            <span style={{ color: 'var(--accent)' }}>technical stack.</span>
+            <span style={{ color: 'var(--accent)' }}>backend depth.</span>
           </h2>
           <p className="section-subheading">
-            Core expertise in Java backend engineering, with strong competencies in modern web & mobile frontends, distributed architectures, and AI-assisted engineering workflows.
+            Enterprise backend engineering in Java and microservices, paired with modern React web development, cross-platform mobile apps, and AI-assisted workflows.
           </p>
         </div>
 

@@ -6,7 +6,7 @@ import Image from 'next/image';
 import { ArrowRight, Download, MapPin } from 'lucide-react';
 import { Github, Linkedin } from '@/components/Icons';
 
-const techLabels = ['Java', 'Spring Boot', 'REST APIs', 'Microservices', 'Oracle SQL'];
+const techLabels = ['Java', 'Spring Boot', 'React', 'REST APIs', 'Microservices', 'Oracle SQL', 'React Native'];
 
 const bgNodes = [
   { x: 72, y: 28 },
@@ -106,7 +106,7 @@ export default function Hero() {
                 marginBottom: '1.5rem',
               }}
             >
-              <span className="section-label">SOFTWARE ENGINEER · JAVA BACKEND DEVELOPMENT</span>
+              <span className="section-label">FULL STACK SOFTWARE ENGINEER · JAVA &amp; MODERN WEB</span>
             </div>
 
             {/* Headline */}
@@ -120,11 +120,11 @@ export default function Hero() {
                 marginBottom: '1.5rem',
               }}
             >
-              Building reliable
+              Building scalable
               <br />
-              backend systems
+              full-stack systems
               <br />
-              <span style={{ color: 'var(--accent)' }}>with Java.</span>
+              <span style={{ color: 'var(--accent)' }}>with a backend core.</span>
             </h1>
 
             {/* Supporting text */}
@@ -137,7 +137,7 @@ export default function Hero() {
                 marginBottom: '2rem',
               }}
             >
-              I'm Tushar Khande, a Software Developer specializing in Java, Spring Boot, REST APIs, microservices, and Oracle SQL. I build backend services and enterprise applications, with additional experience in full-stack, mobile, and AI-assisted development.
+              I'm Tushar Khande, a Full Stack Developer specializing in Java, Spring Boot, REST APIs, and microservices, alongside modern React frontends and React Native mobile apps. I build complete, scalable systems with deep backend foundations and AI-assisted workflows.
             </p>
 
             {/* Location */}

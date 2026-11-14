@@ -24,16 +24,16 @@ export default function AboutSection() {
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
               <p style={{ fontSize: '0.9375rem', color: 'var(--text-secondary)', lineHeight: 1.75 }}>
-                I'm a Software Engineer based in Pune, India, with a focus on Java backend development. My core interest lies in building reliable, maintainable backend services — working with REST APIs, Spring Boot, relational databases, and microservices architecture.
+                I'm a Full Stack Developer based in Pune, India, with a strong engineering core in Java backend development. While my primary architectural strength lies in building reliable microservices, REST APIs, and database schemas with Spring Boot and Oracle SQL, I actively build complete end-to-end web applications with React and mobile apps with React Native.
               </p>
               <p style={{ fontSize: '0.9375rem', color: 'var(--text-secondary)', lineHeight: 1.75 }}>
-                At Cognizant, I work on enterprise insurance applications, contributing to API development, database schema design, SQL optimization, and production reliability. I enjoy the challenge of working within established systems while improving them incrementally through good engineering practices.
+                At Cognizant, I develop enterprise insurance applications—focusing on backend APIs, database optimization, production troubleshooting, and system reliability. I enjoy engineering solutions across the full lifecycle, from architecture and database design to clean interface implementation.
               </p>
               <p style={{ fontSize: '0.9375rem', color: 'var(--text-secondary)', lineHeight: 1.75 }}>
-                Beyond backend systems, I build responsive frontend interfaces with React and mobile applications with React Native, alongside practical AI integrations. I also integrate modern AI-assisted engineering tools—regularly working with GitHub Copilot, Google Antigravity, and Cursor—to accelerate prototyping, code analysis, and solution delivery.
+                Across full-stack web and mobile products, I craft clean UI experiences in React, build cross-platform apps in React Native, and integrate intelligent AI services. I also embed modern AI-assisted engineering tools—regularly utilizing GitHub Copilot, Google Antigravity, and Cursor—to accelerate prototyping, code review, and automated testing.
               </p>
               <p style={{ fontSize: '0.9375rem', color: 'var(--text-secondary)', lineHeight: 1.75 }}>
-                I'm currently open to roles in Java backend development, Spring Boot microservices engineering, and full-stack software engineering.
+                I'm open to roles in Full Stack Software Engineering, Java Backend Development, and Microservices Engineering.
               </p>
             </div>
           </div>
@@ -43,7 +43,7 @@ export default function AboutSection() {
             <p className="section-label" style={{ marginBottom: '0.375rem' }}>QUICK FACTS</p>
 
             {[
-              { label: 'Primary Stack', value: 'Java · Spring Boot · Oracle SQL' },
+              { label: 'Core Stack', value: 'Java · Spring Boot · React · Oracle SQL' },
               { label: 'Current Role', value: 'Jr. Software Engineer at Cognizant' },
               { label: 'Frontend & Mobile', value: 'React · Next.js · React Native' },
               { label: 'AI & Dev Tools', value: 'GitHub Copilot · Antigravity · Cursor' },
